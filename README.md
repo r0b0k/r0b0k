@@ -2,4 +2,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r0b0k&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r0b0k&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r0b0k&layout=compact&theme=radical)
